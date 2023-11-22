@@ -1,5 +1,5 @@
 CC=C:/msys64/mingw64/bin/g++.exe
-SRC_PATH=./
+SRC_PATH=./src/
 OBJ_PATH=./obj/
 DIST_PATH=./dist/
 CFLAGS=-c -g -Wno-narrowing -Wfatal-errors -std=c++17 -fdiagnostics-color=always
